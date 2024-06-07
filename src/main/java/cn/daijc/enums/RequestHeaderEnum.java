@@ -1,4 +1,4 @@
-package org.spring.djc.enums;
+package cn.daijc.enums;
 
 /**
  * 请求头信息枚举类型

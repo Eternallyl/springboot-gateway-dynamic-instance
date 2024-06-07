@@ -1,6 +1,6 @@
-package org.spring.djc.config;
+package cn.daijc.config;
 
-import org.spring.djc.enums.RequestHeaderEnum;
+import cn.daijc.enums.RequestHeaderEnum;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.cloud.loadbalancer.core.ServiceInstanceListSupplier;

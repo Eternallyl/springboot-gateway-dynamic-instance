@@ -1,4 +1,4 @@
-package org.spring.djc.config;
+package cn.daijc.config;
 
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;

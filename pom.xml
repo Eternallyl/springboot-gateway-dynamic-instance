@@ -8,7 +8,7 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.0.13</version>
     </parent>
-    <groupId>org.spring.djc</groupId>
+    <groupId>cn.daijc</groupId>
     <artifactId>springboot-gateway-dynamic-instance</artifactId>
     <version>1.0.0</version>
 
